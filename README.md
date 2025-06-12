@@ -1,7 +1,6 @@
 - 👋 Grüss dich, Landgraf Vili V. hier!
 - 🧑🏽‍🦽 ein Paratronicer aus dem Hoheitsgebiet Hochfranken!
-- 🍼 Ich habe gerade erst angefangen Python zu lernen
-- 🍼 und bin ein absoluter Tech-Rookie. 
+- 🍼 Ich habe gerade erst angefangen Python zu lernen und bin ein absoluter Tech-Rookie. 
 - 🎓 Ich hantiere mit Raspberry Pi und ESP32
 - 📫 PN via Discord -> landgrafwillyw777
 
